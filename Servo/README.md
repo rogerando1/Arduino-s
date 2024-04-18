@@ -1,0 +1,1 @@
+Create a sketch that will allow a servo motor to alternately move clockwise-counterclockwise for five times in one minute.
